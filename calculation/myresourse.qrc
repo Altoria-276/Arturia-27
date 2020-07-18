@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/september.png</file>
+        <file>image/cal.ico</file>
+    </qresource>
+</RCC>
